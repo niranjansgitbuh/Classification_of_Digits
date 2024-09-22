@@ -10,3 +10,16 @@ Using TensorFlow/Keras, we implement a CNN to learn features directly from the p
 - **Output:** Predicted digit (0-9)
 - **Model:** Convolutional Neural Network with layers including Conv2D, Dense, and Dropout
 - **Performance:** Achieves high accuracy on both the training and test sets
+
+# Dataset
+
+MNIST Dataset has used to decode the handwritten digits
+- **Training Data:** 60,000 images
+- **Test Data:** 10,000 images
+- **Classes:** 10 (digits 0-9)
+
+# Objective
+Classify handwritten digits in real-time with high accuracy using the CNN model.
+
+# Conclusion
+The CNN model provides an efficient solution to the handwritten digit classification problem, demonstrating the power of deep learning in image recognition tasks.
